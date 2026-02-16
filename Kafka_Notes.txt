@@ -1,0 +1,35 @@
+Kafka
+
+Before start kafka server we need to start zookeeper server
+
+start zookeeper server then
+start kafka server     then
+
+create topic in kafka  for that we use command c...\kafka-topics.bat --create --topic-example --boostrao-server localhost:9092
+
+then create producer
+
+c\kafka-console-producer.bat --topic-example --bootstrap-server localhost:9092
+
+
+
+
+Oeder Service will basically create order event --== we will publish that order event in kafka topic
+
+then next we will configured kafka producer in order service to publish
+ order event in apache kafka topiccx
+
+
+---------------------------------------------------------------
+
+https://chatgpt.com/share/67a5c532-b0b4-8011-92f0-cb15d101d379
+https://chatgpt.com/c/67dead51-5968-8011-879f-8ad7414ff598
+https://chatgpt.com/c/67a5b1cd-bfd8-8011-b821-1c6992df785d
+https://chatgpt.com/c/67f679d8-a0e8-8011-bfcb-15d1f451b216--sapiet interview
+
+https://chatgpt.com/share/67ffeaf3-3764-8011-bb64-245b40e3cb7c - city 
+https://chatgpt.com/c/67f21f21-b9e4-8011-a0e7-76d186921a6d ---city
+
+https://chatgpt.com/share/6822fd80-660c-8011-875a-eae82960d365 --- Event driven- Microervices 
+
+ https://chatgpt.com/share/67a5c532-b0b4-8011-92f0-cb15d101d379

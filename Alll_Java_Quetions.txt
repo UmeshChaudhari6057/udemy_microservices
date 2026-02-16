@@ -1,0 +1,258 @@
+1.	Introduction?
+
+	2.	What kind of projects you have worked on?
+
+	3.	What was the architecture of your project ?
+
+	4.	The way you implemented the API , was that monolithic application or how it was ?
+
+	5.	If you want to developer an API from scratch , how you will start ?
+
+	6.	How you will use third party API into your project ?
+
+	7.	Any configuration file and you want to use variables inside that file and if it is outside the project or inside the project , how you will load that into your application?
+
+	8.	Any experience in writing Junit test cases ?
+
+	9.	Where you have used cloud services in your project?
+
+	10.	How to connect s3 to your Spring boot application?
+
+	11.	How an API is deployed to the cloud ?
+
+	12.	How to troubleshoot the issues , if those found in cloud deployed application while in testing?
+
+	13.	Where do you put configurations specific to databases in Spring boot?
+
+	14.	How you will maintain different configurations in your project?
+
+	15.	What are the features of Java8 features you are using in your day-to-day coding?
+
+	16.	Which all collection framework you have used in your project?
+
+	17.	If you want to maintain insertion order same as for dropdown on the UI, which collection framework you should use?
+
+	18.	As on your resume, it's Angular and React..Have you worked or Just learned that ?
+
+Write a query to find all users and there last login times with ip address in last 30 days
+
+what is difference between synchronised method and synchronised block.
+
+how will you handle the api in which there is a lot of data send by the client or large file is sent by client.
+
+sample errors while deploying the application on Jenkins?
+
+@Transactional explain
+
+Exception logging and error handling.
+
+How spring boot handles external configs
+
+Why we use swagger api
+
+what is rate limiting 
+
+What is API throttling
+
+Benefits of pom file
+
+Diff between wait and sleep
+
+Questions on dependency tree
+
+Ways to test the APIs
+
+API versioning
+
+types of map
+
+diff between Concurrent hash map and HashMap
+
+what is JPArepsitory
+
+spring JPA
+
+Lambda expression
+
+stream api
+
+@Autowired and @Bean
+
+annotations in springboot, what does pathvariable do?
+
+diff between put and post
+
+diff between soap and rest
+
+Questions on spring Security
+
+advantage of rest
+
+how to handle errors in rest api
+
+what is authorization and authentication -tell me the types of both
+
+Explain any API which you have developed from scratch in your project.
+ 
+HSBC
+What is functional interface in java 8 and where you used in your project
+What is Streams and types of streams and use
+Difference between FlatMap and Map in java 8
+Difference between == and equals
+Difference between Interface and Abstraction
+What is Caching in Spring boot and how does implementing in your project
+What is load balancing and how does implementing in your project
+What is circuit breaker and how does implementation in your project
+How you are creating the custom exception in your project
+Difference between Monolithic and Microservices
+What is Concurrency and how you will handle your project
+How you verify when a service is down or up and how you will handle your project
+How to config the profiles
+What is Default and static methods in java 8
+ 
+
+
+OOPS principle
+Data hiding in java possible ?
+access modifiers
+Overload and override scenario based example
+string,stringbuilder,stringbuffer
+collections- HashMap,list,set,concurrenthashmap
+marker interface
+multithreading implementation
+exception handling 
+create POST API which takes JSON as input and XML as output
+HTTP status codes
+Hibernate concepts and relationship
+database schema for university application
+Procedures and functions in SQL
+conditional annotations
+Sterotypes annotations in spring boot
+difference between spring mvc and spring boot
+ 
+spring boot , microserviecs and design pattern?
+ 
+microservices benefits
+design pattern
+implementation of API gateway and Circuit breaker
+ 
+
+Http status code 
+what is IOC
+what is DI
+difference between spring and spring boot
+list HTTP Methods 
+JUNIT testing
+what is the use of actuator in our application
+Explain your role in project
+Headers in rest api 
+Component annotation
+Repository annotation
+CI/CD pipeline 
+Project deployment
+What are all headers you have used in postman?
+
+
+What is the build tool in your project
+How to install build tool
+How to configure build tool
+How to change jdk version in spring boot 3
+Difference between dependency management and dependency
+What are maven plugins
+What is the use of Maven profiles
+Where to use dependecy managent in project
+Where to use dependency in your project
+ 
+If you get fresh laptop then to start with spring boot application, rest api development and deployment of spring boot application what all resources you need
+which version of java you used and which version of spring boot is compatible with it
+what is latest version of spring boot
+which build tool you have used
+in pom.xml what is difference between dependency management and dependency tag
+in pom.xml what is difference between maven plugin and plugin management tag
+Is it possible to add concrete methods in interface
+
+
+
+What Is Confluence?
+Confluence is a remote-friendly team workspace where knowledge and collaboration meet. It’s used by teams to:
+Create dynamic documents and pages
+Collaborate in real time
+Organize project resources
+Integrate with tools like Jira, Trello, and Slack
+ 
+Allianz:
+What is confluence?
+
+what is jeera?
+
+what is agile?
+
+what are agile ceremonies?
+
+what are the principle of OOP?
+
+What is design principles of Rest API?   
+
+what is transaction management?
+
+how you managed the behaviour of your transacation?                                                                                                                                        What is Kafka?
+
+what ISR?
+
+How fault tolerance handled in kafka?
+
+How are you going to secure your api?
+
+what is JWT?
+
+how did you handled these JWT tokens?
+
+which algorithm is used to encode your JWT?
+
+What if I don't want to use JWT token for security purpose? how I am going to secure my API?
+
+what is Rest API? what are the features of Rest API?
+
+what is synchronous processing? asynchronous? -> with example  
+
+What are the ways to deploy microservices?
+
+what is load balancer? what is apI gateway?
+
+how request flows in your project?
+
+Design a system to handle large traffic with high availability and fault tolerance. Explain how to achieve this.
+ 
+ 
+Below are the recently asked questions to one of the candidate :
+ 
+Explain @Transactional in Spring Boot with a real-world scenario.
+
+How do distributed transactions work in microservices architecture?
+
+Explain OOP concepts with real-life examples, focusing on Polymorphism and Inheritance.
+
+What is the difference between asynchronous and synchronous processing and communication?
+
+Provide a scenario where a load balancer is used and explain its role.
+
+Provide a scenario for using an API Gateway and explain its benefits.
+
+Explain Spring Security with JWT tokens: structure of the token (3 parts), and how public/private key authentication works.
+
+How do you achieve security in a Spring Boot application?
+
+Design a system to handle large traffic with high availability and fault tolerance. Explain how to achieve this.
+
+Have you worked in an Agile environment?
+
+Have you used Jira and Confluence pages for project management and documentation?
+
+Do you participate in daily stand-ups, sprint retrospectives, and other Agile ceremonies?
+
+What are REST APIs, how do you build them, and why are they used?
+
+Explain Swagger documentation and its role in API development.
+
+Describe the SAGA and CQRS design patterns with real-life issues and solutions.
+ 
